@@ -1,5 +1,5 @@
-col = ['blue', 'green', 'indigo', 'orange', 'red', 'violet', 'yellow']
+colors = ['blue', 'green', 'indigo', 'orange', 'red', 'violet', 'yellow']
 def display_rainbow(colors)
   print "R: #{colors[0]}, O:  #{colors[1]}, Y:  #{colors[2]}, G:  #{colors[3]}, B:  #{colors[4]}, I:  #{colors[5]}, V:  #{colors[6]}\n"
 end
-display_rainbow(col)
+display_rainbow(colors)
